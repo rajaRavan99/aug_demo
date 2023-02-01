@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "924989778298",
+    "project_id": "augest-ccace",
+    "storage_bucket": "augest-ccace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924989778298:android:c9d273b4174fb436d78ec3",
+        "android_client_info": {
+          "package_name": "com.example.aug_new_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924989778298-p1k70cvohnmmdbqho4imnrfc19u4ke58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMxcvBqEdhakliX_PR0Rqim3vKUQOp1y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924989778298-p1k70cvohnmmdbqho4imnrfc19u4ke58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
