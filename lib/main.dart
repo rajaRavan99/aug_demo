@@ -71,7 +71,7 @@ class MyApp extends StatelessWidget {
     return Consumer<ThemeProvider>(builder: (context, value, child) {
       return GetMaterialApp(
         // key: Get.key,
-        title: 'Fluttser Demo',
+        title: 'Flutter Dedmo',
         debugShowCheckedModeBanner: false,
         theme: value.getTheme(),
         home: first_Homepage(),

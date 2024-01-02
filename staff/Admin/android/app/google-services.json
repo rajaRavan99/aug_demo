@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "459629982918",
+    "firebase_url": "https://fir-b69c1-default-rtdb.firebaseio.com",
+    "project_id": "fir-b69c1",
+    "storage_bucket": "fir-b69c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459629982918:android:3edfa6708c408bdeae53c7",
+        "android_client_info": {
+          "package_name": "com.example.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459629982918-q126remj70vpi5pqqsl0o61nb9etb4nf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasedemo",
+            "certificate_hash": "5792f6f1f17371dab7fec3d78dac0404d92269a7"
+          }
+        },
+        {
+          "client_id": "459629982918-6et9njqgpjsc46tqsi9nah3q070124ci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALTmPLQnc6P6Iab1LIK8oWH02Ia29WALg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459629982918-6et9njqgpjsc46tqsi9nah3q070124ci.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "459629982918-svkm2bmeoh8mf794nvmqb4hn09i4cqmf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.AccuraMRZFaceDemo.demo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459629982918:android:f33448aa2d6fcc6bae53c7",
+        "android_client_info": {
+          "package_name": "com.example.getx_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459629982918-6et9njqgpjsc46tqsi9nah3q070124ci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALTmPLQnc6P6Iab1LIK8oWH02Ia29WALg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459629982918-6et9njqgpjsc46tqsi9nah3q070124ci.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "459629982918-svkm2bmeoh8mf794nvmqb4hn09i4cqmf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.AccuraMRZFaceDemo.demo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
