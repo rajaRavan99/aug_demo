@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>220252743645-5fkcueag4ng0llvq7a9dpd9ukgnnv8dv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.220252743645-5fkcueag4ng0llvq7a9dpd9ukgnnv8dv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDZSK8HrjPxRRYcMOv5NEChXP4L3jSCu7U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>220252743645</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.directmessage.directchat</string>
+	<key>PROJECT_ID</key>
+	<string>interview-demo-e97eb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>interview-demo-e97eb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:220252743645:ios:303a348dd9a8d25366b834</string>
+	<key>DATABASE_URL</key>
+	<string>https://interview-demo-e97eb-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
